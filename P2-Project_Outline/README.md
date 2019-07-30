@@ -30,4 +30,4 @@ Java, Spring Boot, MySQL
 I intend to learn to incorporate remote libraries for various features such as Stripe, QuickBooks, and
 Zapplication.
 
-Tools: Trello
+Tools: Trello: https://trello.com/b/Z14xAVD5/artwheel
