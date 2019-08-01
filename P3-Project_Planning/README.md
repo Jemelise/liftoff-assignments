@@ -11,8 +11,6 @@ For this assignment, you'll create some initial plans for your project.
 MOQUPS
 https://app.moqups.com/VB1nCodmG0/edit/page/aa9df7b72
 
-![GitHub Logo](C:\Users\Jenna\Desktop\HomePage.png)
-
 ### Project Tracker
 
 https://trello.com/b/Z14xAVD5/artwheel
